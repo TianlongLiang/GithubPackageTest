@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TianlongLiang/GithubPackageTest/issues"
   },
-  "homepage": "https://github.com/TianlongLiang/GithubPackageTest#readme"
+  "homepage": "https://github.com/TianlongLiang/GithubPackageTest#readme",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
