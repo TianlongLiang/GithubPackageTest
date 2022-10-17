@@ -1,0 +1,19 @@
+{
+  "name": "githubpackagetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TianlongLiang/GithubPackageTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TianlongLiang/GithubPackageTest/issues"
+  },
+  "homepage": "https://github.com/TianlongLiang/GithubPackageTest#readme"
+}
