@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/TianlongLiang/GithubPackageTest#readme",
   "publishConfig": {
-    "tianlongliang:registry": "https://npm.pkg.github.com"
+    "TianlongLiang:registry": "https://npm.pkg.github.com"
   }
 }
